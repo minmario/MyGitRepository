@@ -49,9 +49,13 @@
                         <td>${vo.tel}</td>
                         <td>${vo.addr1} &nbsp; ${vo.addr2}</td>
                     </tr>
+                    <h2>내용수정</h2>
                 </c:forEach>
             </tbody>
         </table>
+        <h2>
+         내용 추가
+        </h2>
     </article>
 </div>
 </body>
